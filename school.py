@@ -732,6 +732,3 @@ principal_id=data[0][0]
 director_id=data[1][0] 
 
 home()
-
-
-#Checck the foreign keys in the tables
