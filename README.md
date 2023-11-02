@@ -1,5 +1,5 @@
 # SchoolApp-
-This is a school app which is beneficial for students and the school employees. It shows their personal details and also they can write letters to respected authorities.
+This is a school app Python Program which is beneficial for students and the school employees. It shows their personal details and also they can write letters to respected authorities.
 I have just created a sample APP looking python program.
 There could be more features to it like displaying student's assignments, and wishing birthdays to the students as soon as they login,etc .
 You can give some more ideas to me if you have.
